@@ -11,8 +11,7 @@
   
   "show_appopen": true,
   "show_interstitial": true,
-   "show_native": true,
- 
+  "show_native": true,
   "show_banner": true
   
 }
