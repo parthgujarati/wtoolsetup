@@ -1,13 +1,13 @@
 {
-  "package": "com.ai.photo.aidraw.sketch",
-  "admob_appopen_id": "",
-  "interstitial_id": "",
-  "banner_id": "",
-  "admob_native_id": "",
+  "package": "conversions.sms.messages",
+  "admob_appopen_id": "/6499/example/app-open",
+  "interstitial_id": "1e17a74b5",
+  "banner_id": "1e17a74b5",
+  "admob_native_id": "/6499/example/native",
   
   "splash_appopen": true,
   "splash_banner": true,
-  "show_click_ads": 1,
+  "show_click_ads": 2,
   
   "show_appopen": true,
   "show_interstitial": true,
