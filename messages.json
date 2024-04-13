@@ -1,16 +1,16 @@
 {
 "package": "com.ai.photo.aidraw.sketch",
-"admob_appopen_id" : "",
-"interstitial_id" : "",
-"banner_id" :"",
-"admob_native_id" : "",
+"admob_appopen_id": "",
+"interstitial_id": "",
+"banner_id": "",
+"admob_native_id": "",
 
-"splash_appopen" : true,
-"splash_banner" : true,
-"show_click_ads" : 1,
+"splash_appopen": true,
+"splash_banner": true,
+"show_click_ads": 1,
 
-"show_appopen" : true,
-"show_interstitial" : true,
-"show_banner" : true,
-"show_native" : true
+"show_appopen": true,
+"show_interstitial": true,
+"show_banner": true,
+"show_native": true
 }
