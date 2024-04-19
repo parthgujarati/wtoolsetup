@@ -5,7 +5,7 @@
   "banner_id": "1e17a74b5",
   "admob_native_id": "/6499/example/native",
   
-  "splash_appopen": true,
+  "splash_appopen": false,
   "splash_banner": true,
   "show_click_ads": 0,
   
