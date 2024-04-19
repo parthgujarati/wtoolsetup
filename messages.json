@@ -12,6 +12,8 @@
   "show_appopen": true,
   "show_interstitial": true,
   "show_native": true,
-  "show_banner": true
+  "show_banner": true,
+
+  "policy": "http://cloudinfinity.solutions/2023/message-new-privacy-policy.html"
   
 }
