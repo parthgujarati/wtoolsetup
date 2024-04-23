@@ -7,7 +7,7 @@
   
   "splash_appopen": false,
   "splash_banner": true,
-  "splash_interstitial": true,
+  "splash_interstitial": false,
   "show_click_ads": 0,
   
   "show_appopen": true,
