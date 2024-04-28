@@ -6,7 +6,7 @@
   "admob_native_id": "x/6499/example/native",
   
   "splash_appopen": false,
-  "splash_banner": false,
+  "splash_banner": true,
   "splash_interstitial": false,
   "show_click_ads": 10,
   
