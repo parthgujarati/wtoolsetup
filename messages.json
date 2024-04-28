@@ -13,7 +13,7 @@
   "show_appopen": false,
   "show_interstitial": false,
   "show_native": false,
-  "show_banner": false,
+  "show_banner": true,
 
   "policy": "https://sites.google.com/view/mymessagesapp"
   
