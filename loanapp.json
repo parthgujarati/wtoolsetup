@@ -17,19 +17,19 @@
     "YOUR_PLACEMENT_ID"
   ],
   "admob_appopen_ad_id": [
-    "/6499/example/app-open"
+    "x/6499/example/app-open"
   ],
   "admob_banner_ad_id": [
-    "/6499/example/banner"
+    "x/6499/example/banner"
   ],
   "admob_bottom_native_ad_id": [
-    "/6499/example/native"
+    "x/6499/example/native"
   ],
   "admob_interstitial_ad_id": [
-    "/6499/example/interstitial"
+    "x/6499/example/interstitial"
   ],
   "admob_native_ad_id": [
-    "/6499/example/native"
+    "x/6499/example/native"
   ],
   "orginic_ads_type": "admob",
   "orginic_bottom_ads_type": "nativebanner",
@@ -58,8 +58,8 @@
   "facebook_banner_ads_click": 1,
   "ads_show_type": "load",
   "native_banner_show": true,
-  "ads_click": 0,
-  "back_click": 0,
+  "ads_click": 15,
+  "back_click": 15,
   "native_page_wise": 0,
   "bottom_page_wise": 0,
   "app_open_interstitial_show": "false",
@@ -68,7 +68,7 @@
   "ads_free": false,
   "one_id_load_thay_hoy_ne": true,
   "is_live": true,
-  "quizzo_link": "https://play771.atmegame.com",
+  "quizzo_link": "",
   "quizzo_show": true,
   "quizzo_header_show": false,
   "redirect": true,
