@@ -1,19 +1,19 @@
 {
   "package": "com.hidephoto.secretcalculator.calculatorvault.calculatorlock",
   "admob_appopen_id": "x/6499/example/app-open",
-  "interstitial_id": "x1e17a74b5",
-  "banner_id": "x1e17a74b5",
+  "interstitial_id": "1e17a74b5",
+  "banner_id": "1e17a74b5",
   "admob_native_id": "x/6499/example/native",
   
   "splash_appopen": false,
-  "splash_banner": false,
-  "splash_interstitial": false,
-  "show_click_ads":1,
+  "splash_banner": true,
+  "splash_interstitial": true,
+  "show_click_ads":2,
   
   "show_appopen": false,
-  "show_interstitial": false,
-  "show_native": false,
-  "show_banner": false,
+  "show_interstitial": true,
+  "show_native": true,
+  "show_banner": true,
 
   "policy": "https://mxbcloud.blogspot.com/2021/11/policy-lock-app-as-free-app.html"
   
