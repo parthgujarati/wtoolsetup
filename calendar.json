@@ -1,8 +1,8 @@
 {
   "package": "com.pdf.cam.scanner.docscanner",
   "admob_appopen_id": "/6499/example/app-open",
-  "interstitial_id": "1e23b0cfd",
-  "banner_id": "1e23b0cfd",
+  "interstitial_id": "x1e23b0cfd",
+  "banner_id": "x1e23b0cfd",
   "admob_native_id": "/6499/example/native",
   
   "splash_appopen": true,
