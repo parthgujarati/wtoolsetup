@@ -1,5 +1,5 @@
 {
-  "package": "conversions.sms.messages",
+  "package": "conversions.messages.sms.messages",
   "admob_appopen_id": "/6499/example/app-open",
   "interstitial_id": "1e17a74b5",
   "banner_id": "1e17a74b5",
