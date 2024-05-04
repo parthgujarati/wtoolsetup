@@ -1,13 +1,13 @@
 {
   "package": "com.hidephoto.secretcalculator.calculatorvault.calculatorlock",
-  "admob_appopen_id": "x/6499/example/app-open",
+  "admob_appopen_id": "ca-app-pub-1251597145941313/7994897633",
   "interstitial_id": "1e23b0cfd",
   "banner_id": "1e23b0cfd",
-  "admob_native_id": "x/6499/example/native",
+  "admob_native_id": "ca-app-pub-1251597145941313/7255449465",
   
-  "splash_appopen": false,
+  "splash_appopen": true,
   "splash_banner": true,
-  "splash_interstitial": true,
+  "splash_interstitial": false,
   "show_click_ads":2,
   
   "show_appopen": false,
