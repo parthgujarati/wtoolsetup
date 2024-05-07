@@ -1,20 +1,20 @@
 {
   "package": "com.myapp.myservice.lets.pesa.ln",
   "facebook_banner_ad_id": [
-    "YOUR_PLACEMENT_ID",
-    "YOUR_PLACEMENT_ID"
+    "753976963518874_754030436846860",
+    "753976963518874_754030436846860"
   ],
   "facebook_bottom_native_ad_id": [
-    "YOUR_PLACEMENT_ID",
-    "YOUR_PLACEMENT_ID"
+    "753976963518874_754031050180132",
+    "753976963518874_754031050180132"
   ],
   "facebook_interstitial_ad_id": [
-    "YOUR_PLACEMENT_ID",
-    "YOUR_PLACEMENT_ID"
+    "753976963518874_754030576846846",
+    "753976963518874_754030576846846"
   ],
   "facebook_native_ad_id": [
-    "YOUR_PLACEMENT_ID",
-    "YOUR_PLACEMENT_ID"
+    "753976963518874_754031050180132",
+    "753976963518874_754031050180132"
   ],
   "admob_appopen_ad_id": [
     "x/6499/example/app-open"
@@ -58,8 +58,8 @@
   "facebook_banner_ads_click": 1,
   "ads_show_type": "load",
   "native_banner_show": true,
-  "ads_click": 15,
-  "back_click": 15,
+  "ads_click": 2,
+  "back_click": 0,
   "native_page_wise": 0,
   "bottom_page_wise": 0,
   "app_open_interstitial_show": "false",
