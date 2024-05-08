@@ -17,19 +17,19 @@
     "753976963518874_754031050180132"
   ],
   "admob_appopen_ad_id": [
-    "x/6499/example/app-open"
+    "/21952429235,22490060698/Yomarting_com.myapp.myservice.lets.pesa.ln_AppOpen"
   ],
   "admob_banner_ad_id": [
-    "x/6499/example/banner"
+    "/21952429235,22490060698/Yomarting_com.myapp.myservice.lets.pesa.ln_Banner"
   ],
   "admob_bottom_native_ad_id": [
-    "x/6499/example/native"
+    "/21952429235,22490060698/Yomarting_com.myapp.myservice.lets.pesa.ln_Native"
   ],
   "admob_interstitial_ad_id": [
-    "x/6499/example/interstitial"
+    "/21952429235,22490060698/Yomarting_com.myapp.myservice.lets.pesa.ln_Interstitial"
   ],
   "admob_native_ad_id": [
-    "x/6499/example/native"
+    "/21952429235,22490060698/Yomarting_com.myapp.myservice.lets.pesa.ln_Native"
   ],
   "orginic_ads_type": "admob",
   "orginic_bottom_ads_type": "nativebanner",
