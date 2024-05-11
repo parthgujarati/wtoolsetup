@@ -1,35 +1,35 @@
 {
   "package": "com.myapp.myservice.lets.pesa.ln",
   "facebook_banner_ad_id": [
-    "753976963518874_754030436846860",
-    "753976963518874_754030436846860"
+    "x753976963518874_754030436846860",
+    "x753976963518874_754030436846860"
   ],
   "facebook_bottom_native_ad_id": [
-    "753976963518874_754031050180132",
-    "753976963518874_754031050180132"
+    "x753976963518874_754031050180132",
+    "x753976963518874_754031050180132"
   ],
   "facebook_interstitial_ad_id": [
-    "753976963518874_754030576846846",
-    "753976963518874_754030576846846"
+    "x753976963518874_754030576846846",
+    "x753976963518874_754030576846846"
   ],
   "facebook_native_ad_id": [
-    "753976963518874_754031050180132",
-    "753976963518874_754031050180132"
+    "x753976963518874_754031050180132",
+    "x753976963518874_754031050180132"
   ],
   "admob_appopen_ad_id": [
-    "/21952429235,22490060698/Yomarting_com.myapp.myservice.lets.pesa.ln_AppOpen"
+    "x/21952429235,22490060698/Yomarting_com.myapp.myservice.lets.pesa.ln_AppOpen"
   ],
   "admob_banner_ad_id": [
-    "/21952429235,22490060698/Yomarting_com.myapp.myservice.lets.pesa.ln_Banner"
+    "x/21952429235,22490060698/Yomarting_com.myapp.myservice.lets.pesa.ln_Banner"
   ],
   "admob_bottom_native_ad_id": [
-    "/21952429235,22490060698/Yomarting_com.myapp.myservice.lets.pesa.ln_Native"
+    "x/21952429235,22490060698/Yomarting_com.myapp.myservice.lets.pesa.ln_Native"
   ],
   "admob_interstitial_ad_id": [
-    "/21952429235,22490060698/Yomarting_com.myapp.myservice.lets.pesa.ln_Interstitial"
+    "x/21952429235,22490060698/Yomarting_com.myapp.myservice.lets.pesa.ln_Interstitial"
   ],
   "admob_native_ad_id": [
-    "/21952429235,22490060698/Yomarting_com.myapp.myservice.lets.pesa.ln_Native"
+    "x/21952429235,22490060698/Yomarting_com.myapp.myservice.lets.pesa.ln_Native"
   ],
   "orginic_ads_type": "admob",
   "orginic_bottom_ads_type": "nativebanner",
@@ -89,10 +89,10 @@
   "coming_soon": false,
   "update_coming_soon": false,
   "starting_screen_content_show": 5,
-  "privacy_policy": "https://sites.google.com/view/business-loan-calculator-app/home",
+  "privacy_policy": "https://sites.google.com/view/loanguruemi/home",
   "ads_button_animation": false,
   "Message": "Please Update Our App.",
-  "Update_url": "https://play.google.com/store/apps/details?id=com.myapp.myservice.lets.pesa.ln",
+  "Update_url": "",
   "ads_animation_type": "zoominout",
   "adapter_ads": true,
   "adapter_ads_type": "native"
