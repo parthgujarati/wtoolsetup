@@ -59,7 +59,7 @@
   "ads_show_type": "load",
   "native_banner_show": true,
   "ads_click": 2,
-  "back_click": 0,
+  "back_click": 1,
   "native_page_wise": 0,
   "bottom_page_wise": 0,
   "app_open_interstitial_show": "false",
