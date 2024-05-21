@@ -31,7 +31,7 @@
   "admob_native_ad_id": [
     "/21753324030,22586682066/com.help.suvidhakendra.loaninfo_Native"
   ],
-  "orginic_ads_type": "admob",
+  "orginic_ads_type": "facebook",
   "orginic_bottom_ads_type": "nativebanner",
   "orginic_facebook_page_wise": false,
   "orginic_facebook_native_ads_click": 1,
@@ -48,7 +48,7 @@
   "orginic_app_open_interstitial_show": "false",
   "orginic_app_open_interstitial_ads_click": "0",
   "orginic_app_open_interstitial_back_click": "0",
-  "ads_type": "admob",
+  "ads_type": "facebook",
   "bottom_ads_type": "nativebanner",
   "facebook_page_wise": false,
   "facebook_native_ads_click": 1,
