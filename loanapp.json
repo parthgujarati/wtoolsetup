@@ -17,18 +17,23 @@
     "3399294827027533_3399295607027455"
   ],
   "admob_appopen_ad_id": [
-    "/21753324030,22586682066/com.help.suvidhakendra.loaninfo_AppOpen"
+    "/29636627,22490060698/com.help.suvidhakendra.loaninfo_open_1",
+     "/21753324030,22586682066/com.help.suvidhakendra.loaninfo_AppOpen"
   ],
   "admob_banner_ad_id": [
-    "/21753324030,22586682066/com.help.suvidhakendra.loaninfo_Banner"
+    "/29636627,22490060698/com.help.suvidhakendra.loaninfo_banner_1",
+     "/21753324030,22586682066/com.help.suvidhakendra.loaninfo_Banner"
   ],
   "admob_bottom_native_ad_id": [
+    "/29636627,22490060698/com.help.suvidhakendra.loaninfo_native_1",
     "/21753324030,22586682066/com.help.suvidhakendra.loaninfo_Native"
   ],
   "admob_interstitial_ad_id": [
-    "/21753324030,22586682066/com.help.suvidhakendra.loaninfo_Interstitial"
+    "/29636627,22490060698/com.help.suvidhakendra.loaninfo_interstitial_1",
+     "/21753324030,22586682066/com.help.suvidhakendra.loaninfo_Interstitial"
   ],
   "admob_native_ad_id": [
+    "/29636627,22490060698/com.help.suvidhakendra.loaninfo_native_1",
     "/21753324030,22586682066/com.help.suvidhakendra.loaninfo_Native"
   ],
   "orginic_ads_type": "facebook",
