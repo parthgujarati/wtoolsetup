@@ -1,35 +1,35 @@
 {
   "package": "com.gm.fskn.tool",
   "facebook_banner_ad_id": [
-    "3399294827027533_3399295607027455",
-    "3399294827027533_3399295607027455"
+    "x3399294827027533_3399295607027455",
+    "x3399294827027533_3399295607027455"
   ],
   "facebook_bottom_native_ad_id": [
-    "3399294827027533_3399295607027455",
-    "3399294827027533_3399295607027455"
+    "x3399294827027533_3399295607027455",
+    "x3399294827027533_3399295607027455"
   ],
   "facebook_interstitial_ad_id": [
-    "3399294827027533_3399295500360799",
-    "3399294827027533_3399295500360799"
+    "x3399294827027533_3399295500360799",
+    "x3399294827027533_3399295500360799"
   ],
   "facebook_native_ad_id": [
-    "3399294827027533_3399295607027455",
-    "3399294827027533_3399295607027455"
+    "x3399294827027533_3399295607027455",
+    "x3399294827027533_3399295607027455"
   ],
   "admob_appopen_ad_id": [
-    "/6499/example/app-open"
+    "x/6499/example/app-open"
   ],
   "admob_banner_ad_id": [
-    "/6499/example/banner"
+    "x/6499/example/banner"
   ],
   "admob_bottom_native_ad_id": [
-    "/6499/example/nativee"
+    "x/6499/example/nativee"
   ],
   "admob_interstitial_ad_id": [
-    "/6499/example/interstitial"
+    "x/6499/example/interstitial"
   ],
   "admob_native_ad_id": [
-    "/6499/example/native"
+    "x/6499/example/native"
   ],
   "orginic_ads_type": "admob",
   "orginic_bottom_ads_type": "nativebanner",
@@ -89,7 +89,7 @@
   "coming_soon": false,
   "update_coming_soon": false,
   "starting_screen_content_show": 5,
-  "privacy_policy": "https://sites.google.com/view/loanguruemi/home",
+  "privacy_policy": "xhttps://sites.google.com/view/loanguruemi/home",
   "ads_button_animation": false,
   "Message": "Please Update Our App.",
   "Update_url": "",
