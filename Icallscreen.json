@@ -1,4 +1,3 @@
-
 {
   "package": "com.digital.india.portal.smartapp",
   "facebook_banner_ad_id": [
@@ -92,6 +91,7 @@
   "starting_screen_content_show": 5,
   "privacy_policy": "xhttps://sites.google.com/view/loanguruemi/home",
   "ads_button_animation": false,
+}
   "Message": "Please Update Our App.",
   "Update_url": "",
   "ads_animation_type": "zoominout",
