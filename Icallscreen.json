@@ -49,7 +49,7 @@
   "orginic_app_open_interstitial_ads_click": "0",
   "orginic_app_open_interstitial_back_click": "0",
   "ads_type": "admob",
-  "bottom_ads_type": "nativebanner",
+  "bottom_ads_type": "banner",
   "facebook_page_wise": false,
   "facebook_native_ads_click": 1,
   "facebook_native_banner_ads_click": 1,
