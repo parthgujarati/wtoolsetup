@@ -1,9 +1,9 @@
 {
   "package": "com.pdf.cam.scanner.docscanner",
-  "admob_appopen_id": "c/6499/example/app-open",
+  "admob_appopen_id": "ca-app-pub-1251597145941313~1900538242",
   "interstitial_id": "c1e23b0cfd",
   "banner_id": "c1e23b0cfd",
-  "admob_native_id": "c/6499/example/native",
+  "admob_native_id": "ca-app-pub-1251597145941313~1900538242",
   
   "splash_appopen": true,
   "splash_banner": true,
