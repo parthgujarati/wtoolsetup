@@ -32,7 +32,7 @@
     "/6499/example/native"
   ],
   "orginic_ads_type": "admob",
-  "orginic_bottom_ads_type": "nativebanner",
+  "orginic_bottom_ads_type": "banner",
   "orginic_facebook_page_wise": false,
   "orginic_facebook_native_ads_click": 1,
   "orginic_facebook_native_banner_ads_click": 1,
