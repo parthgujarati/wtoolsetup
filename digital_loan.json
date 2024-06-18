@@ -17,19 +17,19 @@
     "x3399294827027533_3399295607027455"
   ],
   "admob_appopen_ad_id": [
-    "/6499/example/app-open"
+    "x/6499/example/app-open"
   ],
   "admob_banner_ad_id": [
-    "/6499/example/banner"
+    "x/6499/example/banner"
   ],
   "admob_bottom_native_ad_id": [
-    "/6499/example/nativee"
+    "x/6499/example/nativee"
   ],
   "admob_interstitial_ad_id": [
-    "/6499/example/interstitial"
+    "x/6499/example/interstitial"
   ],
   "admob_native_ad_id": [
-    "/6499/example/native"
+    "x/6499/example/native"
   ],
   "orginic_ads_type": "admob",
   "orginic_bottom_ads_type": "nativebanner",
