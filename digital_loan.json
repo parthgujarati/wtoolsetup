@@ -88,7 +88,7 @@
   "analytics": false,
   "coming_soon": false,
   "update_coming_soon": false,
-  "starting_screen_content_show": 2,
+  "starting_screen_content_show": 0,
   "privacy_policy": "https://sites.google.com/view/myloanemiloancalculator/home",
   "ads_button_animation": false,
   "Message": "Please Update Our App.",
