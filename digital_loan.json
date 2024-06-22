@@ -1,5 +1,5 @@
 {
-  "package": "com.lntool.smartapp.help",
+  "package": "com.loanapp.data.loaninfo",
   "facebook_banner_ad_id": [
     "x3399294827027533_3399295607027455",
     "x3399294827027533_3399295607027455"
@@ -89,7 +89,7 @@
   "coming_soon": false,
   "update_coming_soon": false,
   "starting_screen_content_show": 2,
-  "privacy_policy": "https://sites.google.com/view/loanguruemi/home",
+  "privacy_policy": "https://sites.google.com/view/myloanemiloancalculator/home",
   "ads_button_animation": false,
   "Message": "Please Update Our App.",
   "Update_url": "",
