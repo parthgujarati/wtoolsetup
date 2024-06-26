@@ -1,5 +1,5 @@
 {
-  "package": "com.pdf.cam.scanner.docscanner",
+  "package": "com.loanapp.data.loaninfo",
   "facebook_banner_ad_id": [
     "015857299895309_1015858953228477",
     "015857299895309_1015858953228477"
@@ -18,28 +18,28 @@
   ],
   "admob_appopen_ad_id": 
    [
-    "/21952429235,23112557841/GrowupInfotech_com.loanapp.data.loaninfo_AppOpen",
-    "/21952429235,23112557841/GrowupInfotech_com.loanapp.data.loaninfo_AppOpen"
+    "/6499/example/app-open",
+     "/6499/example/app-open"
   ],
   "admob_banner_ad_id": 
    [
-    "/21952429235,23112557841/GrowupInfotech_com.loanapp.data.loaninfo_Banner",
-    "/21952429235,23112557841/GrowupInfotech_com.loanapp.data.loaninfo_Banner"
+    "/6499/example/banner",
+    "/6499/example/banner"
   ],
     
   "admob_bottom_native_ad_id": 
    [
-    "/21952429235,23112557841/GrowupInfotech_com.loanapp.data.loaninfo_Native",
-    "/21952429235,23112557841/GrowupInfotech_com.loanapp.data.loaninfo_Native"
+    "/6499/example/native",
+    "/6499/example/native"
   ],
   
   "admob_interstitial_ad_id": [
-    "/21952429235,23112557841/GrowupInfotech_com.loanapp.data.loaninfo_Interstitial",
-    "/21952429235,23112557841/GrowupInfotech_com.loanapp.data.loaninfo_Interstitial"
+    "/6499/example/interstitial",
+    "/6499/example/interstitial"
   ],
   "admob_native_ad_id":  [
-    "/21952429235,23112557841/GrowupInfotech_com.loanapp.data.loaninfo_Native",
-    "/21952429235,23112557841/GrowupInfotech_com.loanapp.data.loaninfo_Native"
+    "/6499/example/native",
+    "/6499/example/native"
   ],
   "orginic_ads_type": "admob",
   "orginic_bottom_ads_type": "nativebanner",
@@ -99,7 +99,7 @@
   "coming_soon": false,
   "update_coming_soon": false,
   "starting_screen_content_show": 5,
-  "privacy_policy": "https://sites.google.com/view/calendarapp2024/home",
+  "privacy_policy": "https://sites.google.com/view/myloanemiloancalculator/home",
   "ads_button_animation": false,
   "Message": "Please Update Our App.",
   "Update_url": "com.loanapp.data.loaninfo",
