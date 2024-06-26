@@ -1,5 +1,5 @@
 {
-  "package": "com.loanapp.data.loaninfo",
+  "package": "com.pdf.cam.scanner.docscanner",
   "facebook_banner_ad_id": [
     "015857299895309_1015858953228477",
     "015857299895309_1015858953228477"
@@ -99,7 +99,7 @@
   "coming_soon": false,
   "update_coming_soon": false,
   "starting_screen_content_show": 5,
-  "privacy_policy": "https://sites.google.com/view/myloanemiloancalculator/home",
+  "privacy_policy": "https://sites.google.com/view/calendarapp2024/home",
   "ads_button_animation": false,
   "Message": "Please Update Our App.",
   "Update_url": "com.loanapp.data.loaninfo",
