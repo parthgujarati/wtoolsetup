@@ -52,7 +52,7 @@
   "orginic_ads_show_type": "load",
   "orginic_native_banner_show": true,
   "orginic_ads_click": 1,
-  "orginic_back_click": ,
+  "orginic_back_click": 1,
   "orginic_native_page_wise": 0,
   "orginic_bottom_page_wise": 0,
   "orginic_app_open_interstitial_show": "false",
