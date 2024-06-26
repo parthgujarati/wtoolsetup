@@ -1,20 +1,109 @@
 {
-  "package": "com.pdf.cam.scanner.docscanner",
-  "admob_appopen_id": "ca-app-pub-1251597145941313/8651524675",
-  "interstitial_id": "1e23b0cfd",
-  "banner_id": "1e23b0cfd",
-  "admob_native_id": "/23128577529/com.pdf.cam.scanner.docscanner",
+  "package": "com.loanapp.data.loaninfo",
+  "facebook_banner_ad_id": [
+    "015857299895309_1015858953228477",
+    "015857299895309_1015858953228477"
+  ],
+  "facebook_bottom_native_ad_id": [
+    "1015857299895309_1015859333228439",
+    "1015857299895309_1015859333228439"
+  ],
+  "facebook_interstitial_ad_id": [
+    "1015857299895309_1015859019895137",
+    "1015857299895309_1015859019895137"
+  ],
+  "facebook_native_ad_id": [
+    "1015857299895309_1015859126561793",
+    "1015857299895309_1015859126561793"
+  ],
+  "admob_appopen_ad_id": 
+   [
+    "/21952429235,23112557841/GrowupInfotech_com.loanapp.data.loaninfo_AppOpen",
+    "/21952429235,23112557841/GrowupInfotech_com.loanapp.data.loaninfo_AppOpen"
+  ],
+  "admob_banner_ad_id": 
+   [
+    "/21952429235,23112557841/GrowupInfotech_com.loanapp.data.loaninfo_Banner",
+    "/21952429235,23112557841/GrowupInfotech_com.loanapp.data.loaninfo_Banner"
+  ],
+    
+  "admob_bottom_native_ad_id": 
+   [
+    "/21952429235,23112557841/GrowupInfotech_com.loanapp.data.loaninfo_Native",
+    "/21952429235,23112557841/GrowupInfotech_com.loanapp.data.loaninfo_Native"
+  ],
   
-  "splash_appopen": true,
-  "splash_banner": true,
-  "splash_interstitial": true,
-  "show_click_ads":1,
-  
-  "show_appopen": true,
-  "show_interstitial": true,
-  "show_native": true,
-  "show_banner": true,
-
-  "policy": "https://sites.google.com/view/calendarapp2024/home"
-  
+  "admob_interstitial_ad_id": [
+    "/21952429235,23112557841/GrowupInfotech_com.loanapp.data.loaninfo_Interstitial",
+    "/21952429235,23112557841/GrowupInfotech_com.loanapp.data.loaninfo_Interstitial"
+  ],
+  "admob_native_ad_id":  [
+    "/21952429235,23112557841/GrowupInfotech_com.loanapp.data.loaninfo_Native",
+    "/21952429235,23112557841/GrowupInfotech_com.loanapp.data.loaninfo_Native"
+  ],
+  "orginic_ads_type": "admob",
+  "orginic_bottom_ads_type": "nativebanner",
+  "orginic_facebook_page_wise": false,
+  "orginic_facebook_native_ads_click": 1,
+  "orginic_facebook_native_banner_ads_click": 1,
+  "orginic_facebook_interstitial_ads_click": 1,
+  "orginic_facebook_interstitial_back_click": 1,
+  "orginic_facebook_banner_ads_click": 1,
+  "orginic_ads_show_type": "load",
+  "orginic_native_banner_show": true,
+  "orginic_ads_click": 1,
+  "orginic_back_click": 1,
+  "orginic_native_page_wise": 0,
+  "orginic_bottom_page_wise": 0,
+  "orginic_app_open_interstitial_show": "false",
+  "orginic_app_open_interstitial_ads_click": "0",
+  "orginic_app_open_interstitial_back_click": "0",
+  "ads_type": "facebook",
+  "bottom_ads_type": "nativebanner",
+  "facebook_page_wise": false,
+  "facebook_native_ads_click": 1,
+  "facebook_native_banner_ads_click": 1,
+  "facebook_interstitial_ads_click": 1,
+  "facebook_interstitial_back_click": 1,
+  "facebook_banner_ads_click": 1,
+  "ads_show_type": "load",
+  "native_banner_show": true,
+  "ads_click": 1,
+  "back_click": 1,
+  "native_page_wise": 0,
+  "bottom_page_wise": 0,
+  "app_open_interstitial_show": "false",
+  "app_open_interstitial_ads_click": "0",
+  "app_open_interstitial_back_click": "0",
+  "ads_free": false,
+  "one_id_load_thay_hoy_ne": true,
+  "is_live": true,
+  "quizzo_link": "",
+  "quizzo_show": false,
+  "quizzo_header_show": false,
+  "redirect": true,
+  "id_failed_load_or_not": true,
+  "privacy_screen": true,
+  "emergency": false,
+  "version_code": "1",
+  "version_name": "1",
+  "facebook_ads_native_bg_color": "#F4F7FF",
+  "facebook_ads_native_btn_color": "#4286F4",
+  "facebook_ads_native_in_txt_color": "#000000",
+  "facebook_ads_native_text_color": "#ffffff",
+  "admob_native_bg_color": "#F4F7FF",
+  "admob_native_btn_color": "#000000",
+  "admob_native_btn_text_color": "#ffffff",
+  "admob_native_context_text_color": "#000000",
+  "analytics": false,
+  "coming_soon": false,
+  "update_coming_soon": false,
+  "starting_screen_content_show": 5,
+  "privacy_policy": "https://sites.google.com/view/myloanemiloancalculator/home",
+  "ads_button_animation": false,
+  "Message": "Please Update Our App.",
+  "Update_url": "com.loanapp.data.loaninfo",
+  "ads_animation_type": "zoominout",
+  "adapter_ads": true,
+  "adapter_ads_type": "native"
 }
