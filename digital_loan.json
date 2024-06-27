@@ -19,7 +19,6 @@
   "admob_appopen_ad_id": 
    [
     "/21952429235,23112557841/GrowupInfotech_com.loanapp.data.loaninfo_AppOpen",
-    "ca-app-pub-1251597145941313/2798148910",
     "/21952429235,23112557841/GrowupInfotech_com.loanapp.data.loaninfo_AppOpen"
   ],
   "admob_banner_ad_id": 
@@ -36,8 +35,6 @@
   
   "admob_interstitial_ad_id": [
     "/21952429235,23112557841/GrowupInfotech_com.loanapp.data.loaninfo_Interstitial",
-    "/21952429235,23112557841/GrowupInfotech_com.loanapp.data.loaninfo_Interstitial",
-    "ca-app-pub-1251597145941313/3984620964",
     "/21952429235,23112557841/GrowupInfotech_com.loanapp.data.loaninfo_Interstitial"
   ],
   "admob_native_ad_id":  [
