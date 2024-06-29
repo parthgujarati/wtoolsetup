@@ -46,7 +46,7 @@
   "orginic_app_open_interstitial_show": "false",
   "orginic_app_open_interstitial_ads_click": "0",
   "orginic_app_open_interstitial_back_click": "0",
-  "ads_type": "admob",
+  "ads_type": "facebook",
   "bottom_ads_type": "nativebanner",
   "facebook_page_wise": false,
   "facebook_native_ads_click": 1,
