@@ -41,7 +41,7 @@
     "/21952429235,23112557841/GrowupInfotech_com.loanapp.data.loaninfo_Native",
     "/21952429235,23112557841/GrowupInfotech_com.loanapp.data.loaninfo_Native"
   ],
-  "orginic_ads_type": "facebook",
+  "orginic_ads_type": "admob",
   "orginic_bottom_ads_type": "nativebanner",
   "orginic_facebook_page_wise": false,
   "orginic_facebook_native_ads_click": 1,
@@ -58,7 +58,7 @@
   "orginic_app_open_interstitial_show": "false",
   "orginic_app_open_interstitial_ads_click": "0",
   "orginic_app_open_interstitial_back_click": "0",
-  "ads_type": "facebook",
+  "ads_type": "admob",
   "bottom_ads_type": "nativebanner",
   "facebook_page_wise": false,
   "facebook_native_ads_click": 1,
