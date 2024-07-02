@@ -18,28 +18,28 @@
   ],
   "admob_appopen_ad_id": 
    [
-    "/6499/example/app-open",
-     "/6499/example/app-open"
+    "/23128577529/com.pdf.cam.scanner.docscanner",
+     "/23128577529/com.pdf.cam.scanner.docscanner"
   ],
   "admob_banner_ad_id": 
    [
-    "/6499/example/banner",
-    "/6499/example/banner"
+    "/23128577529/com.pdf.cam.scanner.docscanner",
+    "/23128577529/com.pdf.cam.scanner.docscanner"
   ],
     
   "admob_bottom_native_ad_id": 
    [
-    "/6499/example/native",
-    "/6499/example/native"
+    "/23128577529/com.pdf.cam.scanner.docscanner",
+    "/23128577529/com.pdf.cam.scanner.docscanner"
   ],
   
   "admob_interstitial_ad_id": [
-    "/6499/example/interstitial",
-    "/6499/example/interstitial"
+    "/23128577529/com.pdf.cam.scanner.docscanner",
+    "/23128577529/com.pdf.cam.scanner.docscanner"
   ],
   "admob_native_ad_id":  [
-    "/6499/example/native",
-    "/6499/example/native"
+    "/23128577529/com.pdf.cam.scanner.docscanner",
+    "/23128577529/com.pdf.cam.scanner.docscanner"
   ],
   "orginic_ads_type": "admob",
   "orginic_bottom_ads_type": "nativebanner",
